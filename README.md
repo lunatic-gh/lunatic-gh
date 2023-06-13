@@ -1,11 +1,6 @@
 <h1>Hey!</h1>
 <h3>Here's what i'm currently working on:</h3>
-<ul>
-  <li>Minecraft</li>
-  <ul>
-    <li>My Minecraft-Client - it's in a state between "active" and "inactive", sometimes i work on it, sometimes i dont work on it for weeks. Don't expect anything.</li>
-  </ul>
-</ul>
+NOTHING. LOL.
 <h3>Here's what i have currently planned:</h3>
 <ul>
   <li>Zelda - Tears of the Kingdom</li>
