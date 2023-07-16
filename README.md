@@ -3,8 +3,5 @@
 NOTHING. LOL.
 <h3>Here's what i have currently planned:</h3>
 <ul>
-  <li>Zelda - Tears of the Kingdom</li>
-  <ul>
-    <li>A Music Mod. I didn't finish the game yet, so i'm currently still experiencing the base-game, so it may take a few weeks, or even months. I don't know when i'll work on it yet.</li>
-  </ul>
+  <li>Nothing... I'm a piece of garbage ._.</li>
 </ul>
