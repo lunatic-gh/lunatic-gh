@@ -1,7 +1,9 @@
 <h1>Hey!</h1>
 <h3>Here's what i'm currently working on:</h3>
-NOTHING. LOL.
-<h3>Here's what i have currently planned:</h3>
 <ul>
-  <li>Nothing... I'm a piece of garbage ._.</li>
+  <li>A UI-Mod for Minecraft, Overhauling **EVERY** UI-Screen, from Titlescreen to every Settings-Page.</li>
+</ul>
+<h3>Here's what i have planned:</h3>
+<ul>
+  <li>Nothing ._.</li>
 </ul>
