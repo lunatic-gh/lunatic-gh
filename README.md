@@ -13,3 +13,5 @@
 <ul>
   <li>Nothing ._.</li>
 </ul>
+
+<h3>Because I start to get some questions more than once, here's a small general FAQ about my mods, and my mod-writing goals <a href="https://raw.githubusercontent.com/kianagit/kianagit/main/FAQ.md">here</a>.</h3>
