@@ -9,4 +9,4 @@
     - There have been cases where the Moderators of the Official QuiltMC-Discord-Server have been trans/homophobic against users. And as I'm transgender, I definitely do not support such behavior. Duh.
     - Maybe in the future this decision changes, but I don't know yet.
 - I have an idea of a mod. Can you do it?
-  - Maybe. Send me a discord-dm (@kianadev) and we'll see.
+  - Maybe. Send me a discord-dm (@lunatic_dev) and we'll see.
