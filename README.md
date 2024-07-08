@@ -19,4 +19,4 @@
 <h4>Because I start to get some questions more than once, here's a small general FAQ about my mods, and my mod-writing goals <a href="https://github.com/lunatic-gh/lunatic-gh/blob/main/FAQ.md">here</a>.</h4>
 
 <h4>If you want to send me a message on discord, my account name is @lunatic_dev</h4>
-<href>Or just use this link: https://discord.com/mVVSSvJ2</href>
+<href>Or just use this link: https://discord.com/invite/mVVSSvJ2</href>
