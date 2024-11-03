@@ -3,6 +3,8 @@
 <h3>My Languages of Choice:</h3>
 <ul>
   <li>Java</li>
+  <li>Bash/Shell</li>
+  <li>Python (learning)</li>
 </ul>
 <h3>Here's what i'm currently working on:</h3>
 <ul>
