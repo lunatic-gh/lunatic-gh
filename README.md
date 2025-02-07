@@ -1,18 +1,10 @@
 <h1>Hey!</h1>
 
-<h3>My Languages of Choice:</h3>
+<h2>I mostly create Mods for Games. You can find my Profile for various Modding-Pages below:</h2>
 <ul>
-  <li>Java</li>
-  <li>Bash/Shell</li>
-  <li>Python (learning)</li>
-</ul>
-<h3>Here's what i'm currently working on:</h3>
-<ul>
-  <li>All kinds of random stuff really...</li>
-</ul>
-<h3>Here's what i have planned:</h3>
-<ul>
-  <li>Nothing Special ._.</li>
+  <li><a href="https://next.nexusmods.com/profile/LunaticNM">NexusMods</a></li>
+  <li><a href="https://gamebanana.com/members/2252886">GameBanana</li>
+  <li><a href="https://modrinth.com/user/Lunatic">Modrinth (Minecraft)</li>
 </ul>
 
-<h4>If you want to send me a message on discord, my account name is @lunatic_dev</h4>
+<h2>I hope you have a wondeful day ^-^</h2>
